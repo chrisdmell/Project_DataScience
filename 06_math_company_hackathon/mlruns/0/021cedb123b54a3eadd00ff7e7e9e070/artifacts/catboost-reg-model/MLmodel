@@ -1,0 +1,13 @@
+artifact_path: catboost-reg-model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.5
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: 021cedb123b54a3eadd00ff7e7e9e070
+utc_time_created: '2021-07-07 16:54:31.720025'

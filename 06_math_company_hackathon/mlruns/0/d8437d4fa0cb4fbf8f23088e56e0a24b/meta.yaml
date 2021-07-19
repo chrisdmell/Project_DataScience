@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris.dmello/Documents/Python%20Scripts/05_math_company_hackathon/mlruns/0/d8437d4fa0cb4fbf8f23088e56e0a24b/artifacts
+end_time: 1625679300834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d8437d4fa0cb4fbf8f23088e56e0a24b
+run_uuid: d8437d4fa0cb4fbf8f23088e56e0a24b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625679292733
+status: 3
+tags: []
+user_id: chris.dmello
