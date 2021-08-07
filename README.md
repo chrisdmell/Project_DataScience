@@ -19,3 +19,4 @@ Upskill
 # P
 ## Preprocessing
 1. [When to use countencoder and when to use label encoder](https://www.kaggle.com/questions-and-answers/120704) - Count is used when there are large # of categorical values. And label is used when there are a few. 
+2. [Is it correct to use a single StandardScaler before splitting data?](https://stackoverflow.com/questions/63037248/is-it-correct-to-use-a-single-standardscaler-before-splitting-data) - NO leads to data leakage.<br> 
