@@ -7,6 +7,14 @@ Upskill
 3. [An introduction to model ensembling](https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3)<br>
 4. 
 
+# F
+## Feature Engineering
+1. [How to create New Features using Clustering!!](https://towardsdatascience.com/how-to-create-new-features-using-clustering-4ae772387290)<br>
+2. [Cluster-then-predict for classification tasks](https://towardsdatascience.com/cluster-then-predict-for-classification-tasks-142fdfdc87d6)<br>
+3. [Why does frequency encoding work? or count encoding](https://datascience.stackexchange.com/questions/63749/why-does-frequency-encoding-work)<br>
+4. [Comprehensive feature engineering - Hands-on with Feature Engineering Techniques: Advanced Methods](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-advanced-methods-in-python-for-machine-learning-e05bf12da06a)<br>
+5. 
+
 # H
 ## Hackathon
 1. [AnalyticsmagIndia hackathon solution](https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solutions)<br>
