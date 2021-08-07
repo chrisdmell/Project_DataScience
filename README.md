@@ -14,3 +14,8 @@ Upskill
 2. [Using Hypothesis Testing to Analyze A/B Testing Results | Data Science Interviews](https://www.youtube.com/watch?v=6uw0A3aKwMc)<br>
 3. [Cracking Metric/Business Case/Product Sense Problems | Data Science Interview](https://www.youtube.com/watch?v=nPJKFWMiIC8) - Product interview how to approach solving problems. <br>
 4. [5 Statistics Concepts in Data Science Interviews | Power, Errors, Confidence Interval, P value](https://www.youtube.com/watch?v=Allap_hrjyo) - Talks about the 5 statistical concepts. <br>
+
+
+# P
+## Preprocessing
+1. [When to use countencoder and when to use label encoder](https://www.kaggle.com/questions-and-answers/120704) - Count is used when there are large # of categorical values. And label is used when there are a few. 
