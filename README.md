@@ -3,7 +3,8 @@ Upskill
 
 # A
 ## Automl 
-1. [Autogluon - AutoML using AutoGluon - youtube by Srinivasan]
+1. [Autogluon - AutoML using AutoGluon - youtube by Srinivasan](https://www.youtube.com/watch?v=k5kKdb02C0A)<br>
+2. 
 
 # C
 1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
