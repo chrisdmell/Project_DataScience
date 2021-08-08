@@ -4,6 +4,12 @@ Upskill
 # C
 1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
 
+## Cross Validation
+1. [How to choose a predictive model after k-fold cross-validation?](https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation)<br>
+2. [Jason Brownlee - How to Train a Final Machine Learning Model](https://machinelearningmastery.com/train-final-machine-learning-model/)<br>
+
+
+
 # E 
 1. [How to Develop a Weighted Average Ensemble for Deep Learning Neural Networks](https://machinelearningmastery.com/weighted-average-ensemble-for-deep-learning-neural-networks/) - Use n models with wi weights to predict. 
 2. [Basic Ensemble Techniques in Machine Learning](https://www.analyticsvidhya.com/blog/2021/03/basic-ensemble-technique-in-machine-learning/)<br>
