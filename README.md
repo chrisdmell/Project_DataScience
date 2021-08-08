@@ -1,6 +1,10 @@
 # Project_DataScience
 Upskill
 
+# A
+## Automl 
+1. [Autogluon - AutoML using AutoGluon - youtube by Srinivasan]
+
 # C
 1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
 
