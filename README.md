@@ -1,6 +1,9 @@
 # Project_DataScience
 Upskill
 
+# C
+1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
+
 # E 
 1. [How to Develop a Weighted Average Ensemble for Deep Learning Neural Networks](https://machinelearningmastery.com/weighted-average-ensemble-for-deep-learning-neural-networks/) - Use n models with wi weights to predict. 
 2. [Basic Ensemble Techniques in Machine Learning](https://www.analyticsvidhya.com/blog/2021/03/basic-ensemble-technique-in-machine-learning/)<br>
