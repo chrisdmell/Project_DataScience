@@ -7,6 +7,9 @@ Upskill
 ## Cross Validation
 1. [How to choose a predictive model after k-fold cross-validation?](https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation)<br>
 2. [Jason Brownlee - How to Train a Final Machine Learning Model](https://machinelearningmastery.com/train-final-machine-learning-model/)<br>
+3. [Jason Brownlee - Nested Cross-Validation for Machine Learning with Python](https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/)<br>
+4. [NestedCV python repo](https://github.com/casperbh96/Nested-Cross-Validation/blob/master/Example%20Notebook%20-%20NestedCV.ipynb)<br>
+5. [Cross Validation Basics - Machine Learning Tutorial Python 12 - K Fold Cross Validation](https://www.youtube.com/watch?v=gJo0uNL-5Qw)<br>
 
 
 
