@@ -16,6 +16,11 @@ Upskill
 4. [NestedCV python repo](https://github.com/casperbh96/Nested-Cross-Validation/blob/master/Example%20Notebook%20-%20NestedCV.ipynb)<br>
 5. [Cross Validation Basics - Machine Learning Tutorial Python 12 - K Fold Cross Validation](https://www.youtube.com/watch?v=gJo0uNL-5Qw)<br>
 
+# 
+
+## Deep Learning Optimizers
+1. [Deep Learning-All Optimizers In One Video-SGD with Momentum,Adagrad,Adadelta,RMSprop,Adam Optimizers -  Youtube Video Krish Nayak](https://www.youtube.com/watch?v=TudQZtgpoHk)<br>
+2. [PLAY ALL Youtube - Deep Unsupervised Learning -- Berkeley Spring 2020](https://youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)<br>
 
 
 # E 
@@ -37,6 +42,11 @@ Upskill
 1. [AnalyticsmagIndia hackathon solution](https://github.com/analyticsindiamagazine/MachineHack/tree/master/Hackathon_Solutions)<br>
 2. [Personal Hackathon Excel](https://docs.google.com/spreadsheets/d/1CWk9daRNQgr0MJ6yFDQJtuijEqiBvEkjqX_qaur9bXw/edit#gid=0)<br>
 
+# I
+
+## Imbalance Dataset
+1. [Well Explained Approach - Customer Churn Prediction:
+Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](https://www.kaggle.com/raywilliam/customer-churn-prediction-xgboost-hyperbandcv)<br>
 # M
 
 # P
