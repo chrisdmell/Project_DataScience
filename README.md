@@ -49,6 +49,16 @@ Upskill
 Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](https://www.kaggle.com/raywilliam/customer-churn-prediction-xgboost-hyperbandcv)<br>
 # M
 
+# N
+
+# O 
+
+## Optimization
+1. [Youtube - Gradient Descent explaination by josh starmer](https://www.youtube.com/watch?v=sDv4f4s2SB8&t=513s)<Br>
+2. [Youtube - Least Squares by josh starmer](https://www.youtube.com/watch?v=PaFPbb66DxQ)<br>
+3. [Why use gradient descent for linear regression, when a closed-form math solution is available? - stat overflow](https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution)<br>
+4. [Youtube - Stochastic Gradient Descent, Clearly Explained!!! - Josh Starmer](https://www.youtube.com/watch?v=vMh0zPT0tLI)<br>
+
 # P
 ## Preprocessing
 1. [When to use countencoder and when to use label encoder](https://www.kaggle.com/questions-and-answers/120704) - Count is used when there are large # of categorical values. And label is used when there are a few. 
@@ -63,5 +73,10 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 2. [Using Hypothesis Testing to Analyze A/B Testing Results | Data Science Interviews](https://www.youtube.com/watch?v=6uw0A3aKwMc)<br>
 3. [Cracking Metric/Business Case/Product Sense Problems | Data Science Interview](https://www.youtube.com/watch?v=nPJKFWMiIC8) - Product interview how to approach solving problems. <br>
 4. [5 Statistics Concepts in Data Science Interviews | Power, Errors, Confidence Interval, P value](https://www.youtube.com/watch?v=Allap_hrjyo) - Talks about the 5 statistical concepts. <br>
+  
+  # R 
+  ## Logistic Regression 
+  1. [Logistic Regression Details Pt1: Coefficients - Youtube Josh starmer](https://www.youtube.com/watch?v=vN5cNN2-HWE)<br>
+  2. []
 
 
