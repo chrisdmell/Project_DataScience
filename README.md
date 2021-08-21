@@ -70,6 +70,12 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 ## Packages
 1. [AutoGluon: AutoML for Text, Image, and Tabular Data](https://auto.gluon.ai/stable/index.html)<br>
 
+# R 
+  
+## Logistic Regression 
+1. [Logistic Regression Details Pt1: Coefficients - Youtube Josh starmer](https://www.youtube.com/watch?v=vN5cNN2-HWE)<br>
+2. []
+
 # S
 ## Statistics
 1. [Cracking Hypothesis Testing Problems in Data Science Interviews | Binomial test, z-test and t-test](https://www.youtube.com/watch?v=IY7y-t30UJc&t=228s) - Talks about when to use z-test, binomial test, t-tets. <br>
@@ -77,9 +83,8 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 3. [Cracking Metric/Business Case/Product Sense Problems | Data Science Interview](https://www.youtube.com/watch?v=nPJKFWMiIC8) - Product interview how to approach solving problems. <br>
 4. [5 Statistics Concepts in Data Science Interviews | Power, Errors, Confidence Interval, P value](https://www.youtube.com/watch?v=Allap_hrjyo) - Talks about the 5 statistical concepts. <br>
   
-  # R 
-  ## Logistic Regression 
-  1. [Logistic Regression Details Pt1: Coefficients - Youtube Josh starmer](https://www.youtube.com/watch?v=vN5cNN2-HWE)<br>
-  2. []
-
+ # T
+  
+ ## Tableau
+ 1. [Histogram using parameters](https://public.tableau.com/app/profile/chris5331/viz/HistogramUsingParameters/Dashboard1#1)
 
