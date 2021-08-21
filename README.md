@@ -9,6 +9,7 @@ Upskill
 # C
 1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
 
+
 ## Cross Validation
 1. [How to choose a predictive model after k-fold cross-validation?](https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation)<br>
 2. [Jason Brownlee - How to Train a Final Machine Learning Model](https://machinelearningmastery.com/train-final-machine-learning-model/)<br>
@@ -29,13 +30,15 @@ Upskill
 3. [An introduction to model ensembling](https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3)<br>
 4. 
 
+
 # F
 ## Feature Engineering
 1. [How to create New Features using Clustering!!](https://towardsdatascience.com/how-to-create-new-features-using-clustering-4ae772387290)<br>
 2. [Cluster-then-predict for classification tasks](https://towardsdatascience.com/cluster-then-predict-for-classification-tasks-142fdfdc87d6)<br>
 3. [Why does frequency encoding work? or count encoding](https://datascience.stackexchange.com/questions/63749/why-does-frequency-encoding-work)<br>
 4. [Comprehensive feature engineering - Hands-on with Feature Engineering Techniques: Advanced Methods](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-advanced-methods-in-python-for-machine-learning-e05bf12da06a)<br>
-5. 
+5. [11 Categorical Encoders and Benchmark](https://www.kaggle.com/subinium/11-categorical-encoders-and-benchmark)<br>
+6. 
 
 # H
 ## Hackathon
