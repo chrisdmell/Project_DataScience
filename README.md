@@ -4,7 +4,7 @@ Upskill
 # A
 ## Automl 
 1. [Autogluon - AutoML using AutoGluon - youtube by Srinivasan](https://www.youtube.com/watch?v=k5kKdb02C0A)<br>
-2. 
+2. [AutoViML - Very detailed evaluation metrics/SHAP values/AUC-ROC curve library](https://github.com/analyticsindiamagazine/MachineHack/blob/master/Hackathon_Solutions/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/Eric_Vos_Rank2.ipynb)
 
 # C
 1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
