@@ -83,6 +83,11 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 3. [Cracking Metric/Business Case/Product Sense Problems | Data Science Interview](https://www.youtube.com/watch?v=nPJKFWMiIC8) - Product interview how to approach solving problems. <br>
 4. [5 Statistics Concepts in Data Science Interviews | Power, Errors, Confidence Interval, P value](https://www.youtube.com/watch?v=Allap_hrjyo) - Talks about the 5 statistical concepts. <br>
   
+## SMOTE
+1. [SMOTE for Imbalanced Classification with Python - Jason Brownlee](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)<br>
+2. [SMOTE with Imbalance Data - Kaggle Notebook](https://www.kaggle.com/qianchao/smote-with-imbalance-data)<br>
+3. []
+  
  # T
   
  ## Tableau
