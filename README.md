@@ -70,6 +70,10 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 ## Packages
 1. [AutoGluon: AutoML for Text, Image, and Tabular Data](https://auto.gluon.ai/stable/index.html)<br>
 
+## Product Management
+1. [Youtube - Flipkart OneCast - Product Led Growth](https://www.youtube.com/watch?v=u9PnISP6zhk)
+  
+  
 # R 
   
 ## Ranking Hotels:
