@@ -93,6 +93,9 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
   
  # T
   
+## Talks
+1. [Seth Godin – Leadership vs. Management - What it means to make a difference](https://www.youtube.com/watch?v=qzoIAJYPQwo)
+  
  ## Tableau
  1. [Histogram using parameters](https://public.tableau.com/app/profile/chris5331/viz/HistogramUsingParameters/Dashboard1#1)
 
