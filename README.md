@@ -72,6 +72,9 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 
 # R 
   
+## Ranking Hotels:
+1. [Learning to Rank, in Hotel Travel e-commerce space](https://medium.com/makemytrip-engineering/learning-to-rank-in-hotel-travel-e-commerce-space-f2ee7aaed63b)
+
 ## Logistic Regression 
 1. [Logistic Regression Details Pt1: Coefficients - Youtube Josh starmer](https://www.youtube.com/watch?v=vN5cNN2-HWE)<br>
 2. []
