@@ -38,7 +38,7 @@ Upskill
 3. [Why does frequency encoding work? or count encoding](https://datascience.stackexchange.com/questions/63749/why-does-frequency-encoding-work)<br>
 4. [Comprehensive feature engineering - Hands-on with Feature Engineering Techniques: Advanced Methods](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-advanced-methods-in-python-for-machine-learning-e05bf12da06a)<br>
 5. [11 Categorical Encoders and Benchmark](https://www.kaggle.com/subinium/11-categorical-encoders-and-benchmark)<br>
-6. 
+6. [Missing value treatment using EM algorithm — A comparative study](https://medium.com/@statsbros2021/missing-value-treatment-using-em-a-comparative-study-e4b0d6c9da61)
 
 # H
 ## Hackathon
