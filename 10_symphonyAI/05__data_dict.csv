@@ -1,0 +1,28 @@
+table_name,Column_Name,Definition
+Transaction Data,TXN_ID,Transaction ID
+Transaction Data,TXN_DT,Transaction Date
+Transaction Data,HOUSEHOLD_ID,"Customer ID. When it is negative, it means non-carded customers"
+Transaction Data,STORE_ID,Store ID
+Transaction Data,UPC_ID,Product ID
+Transaction Data,NET_AMT,Euros amount that customer paid
+Transaction Data,ITEM_QTY,Number of quantitie that customer shopped
+Transaction Data,MKDN_AMT,Euros amount of discount that customer received
+Transaction Data,FACTS_2019,Engagement of customer to retailer in Sep 2019
+Transaction Data,FACTS_2018,Engagement of customer to retailer in Sep 2018
+Transaction Data,TRUPRICE_2019,How sensitive to price of customer in Sep 2019
+Transaction Data,TRUPRICE_2018,How sensitive to price of customer in Sep 2018
+Product Data,UPC_ID,Product ID
+Product Data,UPC_DESC,Product Description
+Product Data,L4 ID,Category ID
+Product Data,L4_DESC,Category Name
+Product Data,L5_ID,Sub-Category ID
+Product Data,L5_DESC,Sub-Category Name
+Product Data,MANUFACTURER_NAME,Manufacturer Name
+Product Data,BRAND_NAME,Brand Name
+Store Data,STORE_ID,Store ID
+Store Data,STORE_NM,Store Name
+Store Data,REGION_NM,Store Region
+FACTS,FACTS_SEG,FACTs ID
+FACTS,FACTS_DESC,FACTs description
+TruPrice,TRUPRICE_SEG,TruPrice ID
+TruPrice,TRUPRICE_DESC,TruPrice description
