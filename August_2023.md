@@ -10,3 +10,7 @@ Roadamp: <br>
 
 Interview Questions:<br>
 [Advanced Machine Learning Interview Questions You Should Practice](https://www.interviewkickstart.com/interview-questions/advanced-machine-learning-interview-questions)<br>
+[Top 170 Machine Learning Interview Questions 2023 | Great Learning](https://www.mygreatlearning.com/blog/machine-learning-interview-questions/)<br>
+[15 Unique Gradient Boosted Decision Trees Interview Questions](https://analyticsarora.com/9-unique-gbdt-machine-learning-interview-questions/)<br>
+
+
