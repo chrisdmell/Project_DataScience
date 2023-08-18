@@ -1,5 +1,4 @@
 
-
 Roadamp: <br>
 [1. Ultimate Deep Learning Roadmap...](https://www.kaggle.com/discussions/getting-started/218320) <br>
 [2. Complete Machine Learning Roadmap](https://prepinsta.com/complete-machine-learning-roadmap/)<br>
