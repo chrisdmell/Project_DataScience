@@ -27,6 +27,7 @@ Courses: <br>
 [2. Python Scripting for DevOps](https://coursera.org/specializations/python-scripting-devops)<br>
 [3. MLOps | Machine Learning Operations](https://coursera.org/specializations/mlops-machine-learning-duke)<br>
 [4. Introduction to Application Development python](https://coursera.org/specializations/beginning-application-developer)<br>
+[5. Effective Business Presentations with Powerpoint PwC](https://www.coursera.org/learn/powerpoint-presentations/home/week/1) <br>
 
 
 
