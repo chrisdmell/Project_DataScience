@@ -23,7 +23,7 @@ Interview Questions:<br>
 
 
 Courses: <br>
-[1. Developing AI Applications with Python and Flask](https://coursera.org/learn/python-project-for-ai-application-development)
+[1. Developing AI Applications with Python and Flask](https://coursera.org/learn/python-project-for-ai-application-development)<br>
 [2. Python Scripting for DevOps](https://coursera.org/specializations/python-scripting-devops)<br>
 [3. MLOps | Machine Learning Operations](https://coursera.org/specializations/mlops-machine-learning-duke)<br>
 [4. Introduction to Application Development python](https://coursera.org/specializations/beginning-application-developer)<br>
