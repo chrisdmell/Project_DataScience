@@ -89,6 +89,7 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 2. [Using Hypothesis Testing to Analyze A/B Testing Results | Data Science Interviews](https://www.youtube.com/watch?v=6uw0A3aKwMc)<br>
 3. [Cracking Metric/Business Case/Product Sense Problems | Data Science Interview](https://www.youtube.com/watch?v=nPJKFWMiIC8) - Product interview how to approach solving problems. <br>
 4. [5 Statistics Concepts in Data Science Interviews | Power, Errors, Confidence Interval, P value](https://www.youtube.com/watch?v=Allap_hrjyo) - Talks about the 5 statistical concepts. <br>
+5. [Time series similarity](https://tech.gorilla.co/how-can-we-quantify-similarity-between-time-series-ed1d0b633ca0) - Talks about howto measure similarity between time series, which are same, time lagged, scaled etc <br>
   
 ## SMOTE
 1. [SMOTE for Imbalanced Classification with Python - Jason Brownlee](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)<br>
