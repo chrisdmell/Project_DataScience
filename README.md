@@ -8,7 +8,7 @@ Upskill
 
 # C
 1. [Pandas slicing and dicing using loc, iloc](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)<br>
-
+2. [Companion Jupyter notebooks for the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)[Textbook link](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff)
 
 ## Cross Validation
 1. [How to choose a predictive model after k-fold cross-validation?](https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation)<br>
