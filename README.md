@@ -51,7 +51,7 @@ Upskill
 1. [Well Explained Approach - Customer Churn Prediction:
 Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](https://www.kaggle.com/raywilliam/customer-churn-prediction-xgboost-hyperbandcv)<br>
 # M
-
+1. [MLOPS](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J)<br>
 # N
 
 # O 
