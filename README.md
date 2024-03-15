@@ -72,8 +72,17 @@ Leveraging XGBoost and SMOTE to Inform Data-driven Customer Retention Programs](
 
 ## Product Management
 1. [Youtube - Flipkart OneCast - Product Led Growth](https://www.youtube.com/watch?v=u9PnISP6zhk)
-  
-  
+
+
+## Problem Solving Methods:
+1. [Youtube - Learn how to do effective Problem Solving from an ex Mckinsey Consultant](https://youtu.be/maCQq5Xyl1M?si=im8gI5JK2O7-GvJU)
+2. [Youtube - How to Approach Problems Like a Management Consultant](https://youtu.be/uuSzSO0IPVA?si=u-dVZYvitMPNnqCs)
+3. [Youtube - Professional Slide Design](https://youtu.be/JLupu8noaDM?si=IGZy-xkv0CN4vdr6)
+4. [Youtube - Strategy: Back to the Basics](https://youtu.be/gR8WN6AeeBM?si=Zlhg8VB68UwozOkg)
+5. [Youtube - 0.10 Strategic Theory](https://youtu.be/y5Tw6yuxSPw?si=D_nTf9id8pEyiR2m)
+
+
+
 # R 
   
 ## Ranking Hotels:
